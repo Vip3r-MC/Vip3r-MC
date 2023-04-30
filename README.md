@@ -55,6 +55,7 @@ I am a cybersecurity engineer with experience in researching and developing tool
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Setting up BurpSuite for Cyber Security!](https://ytcards.demolab.com/?id=DPrYCwvrsg4&title=Setting+up+BurpSuite+for+Cyber+Security%21&lang=en&timestamp=1658253612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Setting up BurpSuite for Cyber Security!")](https://www.youtube.com/watch?v=DPrYCwvrsg4)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCa3LjGxBeREUkg2-WNeAMIw?sub_confirmation=1)

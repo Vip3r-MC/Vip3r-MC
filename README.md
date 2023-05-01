@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=25&duration=1500&pause=9999999&color=F7F7F7&center=true&vcenter=true&repeat=false&width=435&lines=Vip3r+%F0%9F%90%89" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=25&duration=3500&pause=9999999&color=F7F7F7&center=true&vcenter=true&repeat=false&width=435&lines=Vip3r+%F0%9F%90%89" alt="Typing SVG">
 </h1>
 <p align="center"><strong><code>(Advanced Ethical Hacker/Cybersecurity Professional)</code></strong></p>
 

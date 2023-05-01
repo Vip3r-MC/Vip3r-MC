@@ -30,7 +30,7 @@ I am a cybersecurity engineer with experience in researching and developing tool
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools:
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -52,7 +52,7 @@ I am a cybersecurity engineer with experience in researching and developing tool
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos:
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Setting up BurpSuite for Cyber Security!](https://ytcards.demolab.com/?id=DPrYCwvrsg4&title=Setting+up+BurpSuite+for+Cyber+Security%21&lang=en&timestamp=1658253612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Setting up BurpSuite for Cyber Security!")](https://www.youtube.com/watch?v=DPrYCwvrsg4)
@@ -62,7 +62,8 @@ I am a cybersecurity engineer with experience in researching and developing tool
 
 #
 
-## 📊 GitHub Stats:
+### 📊 Stats:
+#
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vip3r-MC&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Vip3r-MC's Github Stats" style="width: 36%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vip3r-MC&theme=dark&hide_border=false" alt="Vip3r-MC's Github Streak Stats" style="width: 40%;">

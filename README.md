@@ -57,6 +57,7 @@ I am a cybersecurity engineer with experience in researching and developing tool
 ### 📺 Latest YouTube Videos:
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Web3: Your Forward-Thinking Partner in the Digital Revolution](https://ytcards.demolab.com/?id=lD9X58Mg8Pg&title=Web3%3A+Your+Forward-Thinking+Partner+in+the+Digital+Revolution&lang=en&timestamp=1687273237&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Web3: Your Forward-Thinking Partner in the Digital Revolution")](https://www.youtube.com/watch?v=lD9X58Mg8Pg)
 [![Cybersecurity: Your trustworthy friend](https://ytcards.demolab.com/?id=4RcSJBEXwF8&title=Cybersecurity%3A+Your+trustworthy+friend&lang=en&timestamp=1687260602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Cybersecurity: Your trustworthy friend")](https://www.youtube.com/watch?v=4RcSJBEXwF8)
 [![Setting up BurpSuite for Cyber Security!](https://ytcards.demolab.com/?id=DPrYCwvrsg4&title=Setting+up+BurpSuite+for+Cyber+Security%21&lang=en&timestamp=1658253612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Setting up BurpSuite for Cyber Security!")](https://www.youtube.com/watch?v=DPrYCwvrsg4)
 <!-- END YOUTUBE-CARDS -->

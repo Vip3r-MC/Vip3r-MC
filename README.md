@@ -62,7 +62,7 @@ I am a cybersecurity engineer with experience in researching and developing tool
 #
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Vip3r-MC&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Vip3r-MC's Github Stats" style="width: 36%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vip3r-MC&theme=dark&hide_border=false" alt="Vip3r-MC's Github Streak Stats" style="width: 40%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vip3r-MC&theme=dark&hide_border=false" alt="Vip3r-MC's Github Streak Stats" style="width: 39.5%;">
 </p>
 
 <p align="center">
